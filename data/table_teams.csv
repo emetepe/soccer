@@ -1,0 +1,21 @@
+id_team;team;stadium;coach;coach_pic;emblem_pic;stadium_pic;tshirt_pic
+1;Athletic Club;San Mamés;Marcelino;\img\coaches\1.png;\img\emblem\1.png;\img\stadium\1.png;\img\tshirt\1.png
+2;Atlético de Madrid;Wanda Metropolitano;Simeone;\img\coaches\2.png;\img\emblem\2.png;\img\stadium\2.png;\img\tshirt\2.png
+3;CA Osasuna;El Sadar;Jagoba Arrasate;\img\coaches\3.png;\img\emblem\3.png;\img\stadium\3.png;\img\tshirt\3.png
+4;Cádiz CF;Estadio Nuevo Mirandilla;Alvaro Cervera;\img\coaches\4.png;\img\emblem\4.png;\img\stadium\4.png;\img\tshirt\4.png
+5;Deportivo Alavés;Mendizorroza;Calleja;\img\coaches\5.png;\img\emblem\5.png;\img\stadium\5.png;\img\tshirt\5.png
+6;Elche CF;Estadio Martínez Valero;F. Rodriguez;\img\coaches\6.png;\img\emblem\6.png;\img\stadium\6.png;\img\tshirt\6.png
+7;FC Barcelona;Camp Nou;Xavi;\img\coaches\7.png;\img\emblem\7.png;\img\stadium\7.png;\img\tshirt\7.png
+8;Getafe CF;Coliseum Alfonso Pérez;Sanchez Flores;\img\coaches\8.png;\img\emblem\8.png;\img\stadium\8.png;\img\tshirt\8.png
+9;Granada CF;Nuevo Los Cármenes;Robert;\img\coaches\9.png;\img\emblem\9.png;\img\stadium\9.png;\img\tshirt\9.png
+10;Levante UD;Estadio Ciutat de València;Javier Pereira;\img\coaches\10.png;\img\emblem\10.png;\img\stadium\10.png;\img\tshirt\10.png
+11;Rayo Vallecano;Estadio de Vallecas;Iraola;\img\coaches\11.png;\img\emblem\11.png;\img\stadium\11.png;\img\tshirt\11.png
+12;RC Celta;Estadio ABANCA Balaídos;Coudet;\img\coaches\12.png;\img\emblem\12.png;\img\stadium\12.png;\img\tshirt\12.png
+13;RCD Espanyol de Barcelona;RCDE Stadium;Vicente Moreno Peris;\img\coaches\13.png;\img\emblem\13.png;\img\stadium\13.png;\img\tshirt\13.png
+14;RCD Mallorca;Visit Mallorca Estadi;Luis Garcia;\img\coaches\14.png;\img\emblem\14.png;\img\stadium\14.png;\img\tshirt\14.png
+15;Real Betis;Estadio Benito Villamarín;Manuel Pellegrini;\img\coaches\15.png;\img\emblem\15.png;\img\stadium\15.png;\img\tshirt\15.png
+16;Real Madrid;Estadio Santiago Bernabéu;Ancelotti;\img\coaches\16.png;\img\emblem\16.png;\img\stadium\16.png;\img\tshirt\16.png
+17;Real Sociedad;Reale Arena;Imanol Alguacil;\img\coaches\17.png;\img\emblem\17.png;\img\stadium\17.png;\img\tshirt\17.png
+18;Sevilla FC;Ramón Sánchez-Pizjuán;Lopetegui;\img\coaches\18.png;\img\emblem\18.png;\img\stadium\18.png;\img\tshirt\18.png
+19;Valencia CF;Camp de Mestalla;Jose Bordalas;\img\coaches\19.png;\img\emblem\19.png;\img\stadium\19.png;\img\tshirt\19.png
+20;Villarreal CF;Estadio de la Cerámica;Emery;\img\coaches\20.png;\img\emblem\20.png;\img\stadium\20.png;\img\tshirt\20.png
