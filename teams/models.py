@@ -3,7 +3,7 @@ from django.db import models
 class Team(models.Model):
     name = models.CharField(max_length=255)
     # Emblem
-    emplem_pic = models.ImageField(upload_to='teams/emblems', blank=True, null=True)
+    emblem_pic = models.ImageField(upload_to='teams/emblems', blank=True, null=True)
 
     # Coach Detail
     coach_name = models.CharField(max_length=255, blank=True, null=True)
