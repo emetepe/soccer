@@ -15,6 +15,9 @@ class Team(models.Model):
     # Stadium
     stadium = models.ForeignKey('Stadium', on_delete=models.CASCADE, related_name='stadium')
 
+    # Description
+    description = models.TextField(blank=True, null=True)
+
     def __str__(self):
         return self.name
 
