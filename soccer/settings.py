@@ -41,6 +41,7 @@ DEFAULT_APPS = [
 LOCAL_APPS = [
     'users',
     'teams',
+    'home',
 ]
 
 THIRD_PARTY_APPS = []
